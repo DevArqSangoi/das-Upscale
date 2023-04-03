@@ -1,4 +1,4 @@
-# RealESRGAN Image Upscaling Script
+# das-Upscale - Python Image Upscaling Script
 
 This script is an easy-to-use implementation of the RealESRGAN model for upscaling images. RealESRGAN is a state-of-the-art deep learning model designed for enhancing the resolution and quality of images. The script allows users to select a source folder containing images, a destination folder for the upscaled images, and a pre-trained model file. The upscale factor (2x, 4x, or 8x) can be chosen according to the user's preference. The script supports various common image formats such as JPEG, PNG, BMP, TIFF, and WebP. In addition to the upscaled images, the script also saves the original images with a "original_" prefix in the destination folder.
 
